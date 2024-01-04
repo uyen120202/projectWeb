@@ -1,0 +1,70 @@
+﻿@model DacTa.Models.Hdban
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "ThemHoaDonBan";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Thêm hóa đơn bán</h2>
+
+<h4>Hàng</h4>
+<hr />
+<div class="row">
+    <div method="post" class="col-md-4">
+        <form id="them-hoa-don">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="MaHdb" class="control-label">Mã hóa đơn bán</label>
+                <input asp-for="MaHdb" class="form-control" name="MaHdb" />
+                <span asp-validation-for="MaHdb" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NgayLap" class="control-label">Ngày lập</label>
+                <input asp-for="NgayLap" class="form-control" name="NgayLap" />
+                <span asp-validation-for="NgayLap" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaNv" class="control-label">Nhân viên lập</label>
+                <select asp-for="MaNv" name="MaNv" class="form-control" asp-items="ViewBag.MaNv"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaKh" class="control-label">Khách Hàng</label>
+                <select asp-for="MaKh" name="MaKh" class="form-control" asp-items="ViewBag.MaKh"></select>
+            </div>
+            
+            <div class="form-group">
+                <label class="control-label">Sản phẩm</label>
+                <select id="ds-sp" class="form-control" asp-items="ViewBag.MaSp"></select>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Đơn giá</label>
+                <input id="don-gia"  class="form-control" disabled/>
+            </div>
+            <div class="form-group">
+                <label  class="control-label">Số lượng</label>
+                <input id="so-luong" class="form-control"  />
+            </div>
+            <button id="add-sp" type="button">Thêm sản phẩm</button>
+            <table id="chi-tiet-sp" style="display:none">
+                <thead>
+                    <th>Mã sản phẩm</th>
+                    <th>Tên sản phẩm</th>
+                    <th>Số lượng</th>
+                    <th>Đơn giá</th>
+                    <th>Thành tiền</th>
+                </thead>
+                <tbody>
+
+                </tbody>
+            </table>
+            <button type="submit">Confirm</button>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="DanhMucSanPham">Back to List</a>
+</div>
+
+
+

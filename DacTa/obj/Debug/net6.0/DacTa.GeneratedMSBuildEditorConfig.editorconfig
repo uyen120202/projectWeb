@@ -1,0 +1,80 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DacTa
+build_property.RootNamespace = DacTa
+build_property.ProjectDir = D:\kì 1 năm 4\đặc tả phần mềm\BTL\DacTa\DacTa\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\kì 1 năm 4\đặc tả phần mềm\BTL\DacTa\DacTa
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/kì 1 năm 4/đặc tả phần mềm/BTL/DacTa/DacTa/Areas/Admin/Views/HomeAdmin/ChiTietHoaDonBan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXENoaVRpZXRIb2FEb25CYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/kì 1 năm 4/đặc tả phần mềm/BTL/DacTa/DacTa/Areas/Admin/Views/HomeAdmin/DanhMucHoaDonBan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmhNdWNIb2FEb25CYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/kì 1 năm 4/đặc tả phần mềm/BTL/DacTa/DacTa/Areas/Admin/Views/HomeAdmin/DanhMucSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmhNdWNTYW5QaGFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/kì 1 năm 4/đặc tả phần mềm/BTL/DacTa/DacTa/Areas/Admin/Views/HomeAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/kì 1 năm 4/đặc tả phần mềm/BTL/DacTa/DacTa/Areas/Admin/Views/HomeAdmin/ThemHoaDonBan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1Ib2FEb25CYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/kì 1 năm 4/đặc tả phần mềm/BTL/DacTa/DacTa/Areas/Admin/Views/HomeAdmin/ThemSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1TYW5QaGFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/kì 1 năm 4/đặc tả phần mềm/BTL/DacTa/DacTa/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/kì 1 năm 4/đặc tả phần mềm/BTL/DacTa/DacTa/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/kì 1 năm 4/đặc tả phần mềm/BTL/DacTa/DacTa/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/kì 1 năm 4/đặc tả phần mềm/BTL/DacTa/DacTa/Views/Shared/Components/LoaiSpMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTG9haVNwTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/kì 1 năm 4/đặc tả phần mềm/BTL/DacTa/DacTa/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/kì 1 năm 4/đặc tả phần mềm/BTL/DacTa/DacTa/Views/Shared/_LayoutDefault.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXREZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/kì 1 năm 4/đặc tả phần mềm/BTL/DacTa/DacTa/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/kì 1 năm 4/đặc tả phần mềm/BTL/DacTa/DacTa/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/kì 1 năm 4/đặc tả phần mềm/BTL/DacTa/DacTa/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/kì 1 năm 4/đặc tả phần mềm/BTL/DacTa/DacTa/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ckib8i3w62
